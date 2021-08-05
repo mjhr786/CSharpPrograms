@@ -1,0 +1,52 @@
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.exe
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.deps.json
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.runtimeconfig.json
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.runtimeconfig.dev.json
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.dll
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.pdb
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.csprojAssemblyReference.cache
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.AssemblyInfoInputs.cache
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.AssemblyInfo.cs
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.dll
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.pdb
+D:\Projects\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.genruntimeconfig.cache
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.exe
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.deps.json
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.runtimeconfig.json
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.runtimeconfig.dev.json
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.dll
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.pdb
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.csprojAssemblyReference.cache
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.AssemblyInfoInputs.cache
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.AssemblyInfo.cs
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.dll
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.pdb
+D:\Projects\DotNet\CSharpPrograms\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.genruntimeconfig.cache
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.exe
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.deps.json
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.runtimeconfig.json
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.runtimeconfig.dev.json
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.dll
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.pdb
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.csprojAssemblyReference.cache
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.csproj.CoreCompileInputs.cache
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.AssemblyInfoInputs.cache
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.AssemblyInfo.cs
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.dll
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.pdb
+D:\mjhr\Interview Prep\C#\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.genruntimeconfig.cache
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.exe
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.deps.json
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.runtimeconfig.json
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.runtimeconfig.dev.json
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.dll
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\bin\Debug\netcoreapp3.1\CSharpPrograms.pdb
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.csprojAssemblyReference.cache
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.csproj.CoreCompileInputs.cache
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.AssemblyInfoInputs.cache
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.AssemblyInfo.cs
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.dll
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.pdb
+D:\mjhr\Interview Prep\C#\CodingQuestions\CSharpPrograms\CSharpPrograms\obj\Debug\netcoreapp3.1\CSharpPrograms.genruntimeconfig.cache
